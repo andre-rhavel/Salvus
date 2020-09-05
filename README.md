@@ -4,10 +4,7 @@
 -Digitar no terminal: npm install
 -Digitar no terminal: npm start
 
-
-
- 
--Testando a Aplicação no Postman:
+*Testando a Aplicação no Postman:
 Caso queira testar as API's criadas no projeto, primeiro baixe o Postman. Depois de realizar o download do Postman, basta agora realizar os passos abaixo para poder testar cada API criada!
 
 Host:
